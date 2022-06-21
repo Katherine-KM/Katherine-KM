@@ -1,5 +1,4 @@
-![Untitled design (4)](https://user-images.githubusercontent.com/96846178/174889426-6b9ccb47-d3fe-46bd-89f8-f3d02fd18f84.png)
-
+![Katherine Marcott (2)](https://user-images.githubusercontent.com/96846178/174891884-3d1d01b3-7c6f-4815-bb65-de1f49e4326f.png)
 
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
