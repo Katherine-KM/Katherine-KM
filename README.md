@@ -1,4 +1,5 @@
-![Softwar Engineer](https://user-images.githubusercontent.com/96846178/174888886-30f9ec6b-9d7f-498c-816d-25c307d7000b.png)
+![Untitled design (4)](https://user-images.githubusercontent.com/96846178/174889426-6b9ccb47-d3fe-46bd-89f8-f3d02fd18f84.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
