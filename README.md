@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>
 
-- 🔭 I’m currently working on many Github Projects and Websites for local businesses. . [Fade O'Clock Barbershop](https://fadeoclock.netlify.app/)
+- 🔭 I’m currently working freelance websites for local businesses. [Fade O'Clock Barbershop](https://fadeoclock.netlify.app/)
 
 - 🌱 I’m currently actively developing my skills **in the MERN stack.**
 
