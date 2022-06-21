@@ -8,11 +8,15 @@
 
 - 🌱 I’m currently actively developing my skills **in the MERN stack.**
 
-- 💬 Talk to me about **CSS, JavaScript, Freelancing Opportunities, and animals.**
+- 💬 Talk to me about **CSS, JavaScript, Freelancing Opportunities, and pets.**
 
-- 📫 How to reach me **katherinemarcottsoftwareengineer@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center"> Connect with me: </h3> 
+<p align="center">
+<a href="https://twitter.com/CodingKatCodes" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="CodingKatCodes" height="47" width="47" /></a>
+<a href="https://www.linkedin.com/in/katherinemarcott/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="Katherine Marcott" height="47" width="47" /></a>
+<h4 align="center">📫 katherinemarcottsoftwareengineer@gmail.com</h4>
+</p>
+<hr>
 <p align="left">
 </p>
 
