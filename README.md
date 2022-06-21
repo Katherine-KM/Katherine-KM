@@ -1,4 +1,5 @@
-![Katherine Marcott](https://user-images.githubusercontent.com/96846178/174887109-10304918-391e-4f4a-8fbe-420a1dea3f5b.png)
+![Softwar Engineer](https://user-images.githubusercontent.com/96846178/174888886-30f9ec6b-9d7f-498c-816d-25c307d7000b.png)
+
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>
