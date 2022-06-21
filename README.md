@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable.</h3>
 
-- 🔭 I’m currently working freelance websites for local businesses. [Fade O'Clock Barbershop](https://fadeoclock.netlify.app/)
+- 🔭 I’m currently working on websites for local businesses. [Fade O'Clock Barbershop](https://fadeoclock.netlify.app/)
 
-- 🌱 I’m currently actively developing my skills **in the MERN stack.**
+- 🌱 I am actively developing my skills **in the MERN stack.**
 
 - 💬 Talk to me about **CSS, JavaScript, Freelancing Opportunities, and pets.**
 
