@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://twitter.com/CodingKatCodes" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="CodingKatCodes" height="47" width="47" /></a>
 <a href="https://www.linkedin.com/in/katherinemarcott/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="Katherine Marcott" height="47" width="47" /></a>
-<h4 align="center">📫 katherinemarcottsoftwareengineer@gmail.com</h4>
+<h4 align="center">📫 katherinesoftwareengineer@gmail.com</h4>
 </p>
 <hr>
 <p align="left">
