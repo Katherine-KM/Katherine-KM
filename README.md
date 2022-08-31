@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
-<h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable.</h3>
+<h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable. Check Out My Portfolio: https://katherinemarcott.netlify.app/ </h3>
 
 - 🔭 I’m currently working on websites for local businesses.
 
