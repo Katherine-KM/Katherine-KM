@@ -20,6 +20,88 @@
 <p align="left">
 </p>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+  <tr>
+<td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://katherinemarcott.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/96846178/211113146-50415fcc-eb73-447c-9ddd-53acd4365593.PNG" width="100%" alt="portfolio">
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/KatherineMarcott/CurrentPortfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://katherinemarcott.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript & React </strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">FoodShare</h3>
+        <br />
+      <a target="_blank" href="https://vmp.up.railway.app/">
+            <img src="https://user-images.githubusercontent.com/96846178/211112540-05a24eb0-b6df-4319-99b8-bee3897f598f.PNG" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KatherineMarcott/VitalMealPlanner" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://vmp.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Node.js, Express.js, & MongoDB </strong> - Platform to help find and share new and old recipes with your friends and family!</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Wreckers - Client Site </h3>
+        <br />
+        <a target="_blank" href="https://wreckers.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/96846178/211114912-e88b10a7-51c5-46e4-bf25-6d681c683a16.PNG" width="100%" alt="TopFlight Client Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KatherineMarcott/top-flight-wrecker-recovery" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://wreckers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Bootstrap, JavaScript </strong> - Client Website </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"> Fade O'Clock BarberShop </h3>
+        <br />
+        <a target="_blank" href="https://fadeoclock.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/96846178/211116706-b9637d29-b602-4389-8037-cdfb61664540.PNG" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/KatherineMarcott/barberShop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://fadeoclock.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript </strong> - Client Website </p>
+    </td>
+  </tr>
+</table>
+
+
 <h3 align="center">Languages, Tools, and Technologies :</h3>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
