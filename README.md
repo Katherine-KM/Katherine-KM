@@ -81,7 +81,7 @@
         <p><strong>HTML, CSS, Bootstrap, JavaScript </strong> - Client Website </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> Fade O'Clock BarberShop </h3>
+      <h3 align="center"> Fade O'Clock BarberShop - Client Site </h3>
         <br />
         <a target="_blank" href="https://fadeoclock.netlify.app/">
           <img src="https://user-images.githubusercontent.com/96846178/211116706-b9637d29-b602-4389-8037-cdfb61664540.PNG" width="100%" alt="Matching Cards"/>
