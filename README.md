@@ -45,7 +45,7 @@
       <h3 align="center">FoodShare</h3>
         <br />
       <a target="_blank" href="https://vmp.up.railway.app/">
-            <img src="https://user-images.githubusercontent.com/96846178/211112540-05a24eb0-b6df-4319-99b8-bee3897f598f.PNG" width="100%"  alt="Rigley 2"/>
+            <img src="https://user-images.githubusercontent.com/96846178/211112540-05a24eb0-b6df-4319-99b8-bee3897f598f.PNG" width="100%"  alt="FoodShare"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@
       <h3 align="center"> Fade O'Clock BarberShop - Client Site </h3>
         <br />
         <a target="_blank" href="https://fadeoclock.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/96846178/211116706-b9637d29-b602-4389-8037-cdfb61664540.PNG" width="100%" alt="Matching Cards"/>
+          <img src="https://user-images.githubusercontent.com/96846178/211116706-b9637d29-b602-4389-8037-cdfb61664540.PNG" width="100%" alt="Fade O'Clock BarberShop Client website"/>
         </a>
         <br />
         <p align="center">
