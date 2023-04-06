@@ -1,8 +1,8 @@
-![Katherine Marcott (2)](https://user-images.githubusercontent.com/96846178/174891884-3d1d01b3-7c6f-4815-bb65-de1f49e4326f.png)
+![swe-banner](https://user-images.githubusercontent.com/96846178/230399476-e92ac112-414c-497d-8176-f0566aba4fda.png)
 
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
-<h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable. Check Out My Portfolio: https://katherinemarcott.netlify.app/ </h3>
+<h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable. Check Out My Portfolio: https://katherinek.netlify.app/ </h3>
 
 - 🔭 I’m currently working on websites for local businesses.
 
@@ -12,8 +12,7 @@
 
 <h3 align="center"> Connect with me: </h3> 
 <p align="center">
-<a href="https://twitter.com/CodingKatCodes" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="CodingKatCodes" height="47" width="47" /></a>
-<a href="https://www.linkedin.com/in/katherinemarcott/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="Katherine Marcott" height="47" width="47" /></a>
+<a href="https://www.linkedin.com/in/katherine-km/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="LinkedIn" height="47" width="47" /></a>
 <h4 align="center">📫 katherinesoftwareengineer@gmail.com</h4>
 </p>
 <hr>
@@ -35,7 +34,7 @@
   <a href="https://github.com/KatherineMarcott/CurrentPortfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://katherinemarcott.netlify.app/" target="_blank">
+  <a href="https://katherinek.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
