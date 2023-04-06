@@ -1,5 +1,4 @@
-![swe-banner](https://user-images.githubusercontent.com/96846178/230399476-e92ac112-414c-497d-8176-f0566aba4fda.png)
-
+![SWEBannerGithub](https://user-images.githubusercontent.com/96846178/230412342-6b329610-d4f6-40f2-bf49-859b22f0cbca.png)
 
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable. Check Out My Portfolio: https://katherinek.netlify.app/ </h3>
