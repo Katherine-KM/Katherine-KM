@@ -25,7 +25,7 @@
 <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://katherinemarcott.netlify.app/">
+        <a target="_blank" href="https://katherinek.netlify.app/">
           <img src="https://user-images.githubusercontent.com/96846178/211113146-50415fcc-eb73-447c-9ddd-53acd4365593.PNG" width="100%" alt="portfolio">
         </a>
       <br />
