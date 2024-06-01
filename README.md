@@ -37,10 +37,8 @@
     <td width="50%" valign="top">
       <h3 align="center"> Full-Stack Project Pet Website </h3>
         <br />
-        <a target="_blank" href="https://fadeoclock.netlify.app/">
           <img src="https://github.com/Katherine-KM/Katherine-KM/assets/96846178/90feeefb-2dac-4d81-ae0a-87872807bfc0"
  width="100%" alt="Pettopia Project"/>
-        </a>
         <br />
         <p align="center">
 
@@ -48,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript </strong> - Client Website </p>
+        <p><strong>React, Tailwind, JSX, MongoDB, Express, Node </strong> </p>
     </td>
   </tr>
 </table>
